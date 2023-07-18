@@ -1138,3 +1138,1014 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.18-20.55.36:063][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.07.18-20.55.36:227][  1]LogNiagara: Compiling System NiagaraSystem /Game/Cursor/FX_Cursor.FX_Cursor took 1.458212 sec, no shader worker used.
 [2023.07.18-20.55.36:753][  3]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.18-20.55.56:275][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/CustomAssets/ImportedAssets/Textures/T_MagicCircle-01_1024_M.T_MagicCircle-01_1024_M) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.56:275][345]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Custom/CustomAssets/ImportedAssets/Textures/T_MagicCircle-01_1024_M.T_MagicCircle-01_1024_M
+[2023.07.18-20.55.56:303][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/UI/UI_Panel_Magic.UI_Panel_Magic) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.56:303][345]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Custom/UI/UI_Panel_Magic.UI_Panel_Magic
+[2023.07.18-20.55.56:303][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.56:305][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.56:306][345]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.07.18-20.55.57:320][345]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-20.55.57:320][345]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-20.55.57:359][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/UI/UI_Panel_Stats.UI_Panel_Stats) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.57:359][345]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Custom/UI/UI_Panel_Stats.UI_Panel_Stats
+[2023.07.18-20.55.57:359][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.57:360][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.57:608][345]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-20.55.57:608][345]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-20.55.57:627][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/UI/UI_Panel_Appearance.UI_Panel_Appearance) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.57:627][345]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Custom/UI/UI_Panel_Appearance.UI_Panel_Appearance
+[2023.07.18-20.55.57:628][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.57:629][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.57:908][345]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-20.55.57:908][345]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-20.55.57:930][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Engine/EditorBlueprintResources/StandardMacros.StandardMacros) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.57:930][345]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2023.07.18-20.55.57:930][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.58:252][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/Enums/E_DamageTypes.E_DamageTypes) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.58:252][345]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom/Blueprints/Enums/E_DamageTypes.E_DamageTypes
+[2023.07.18-20.55.58:295][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/BP_GameInstance.BP_GameInstance) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.58:295][345]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Blueprints/BP_GameInstance.BP_GameInstance
+[2023.07.18-20.55.58:295][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.58:555][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.58:555][345]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-20.55.58:555][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.58:557][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.58:807][345]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-20.55.58:807][345]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-20.55.58:829][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/BP_TopDownController.BP_TopDownController) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.58:830][345]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Blueprints/BP_TopDownController.BP_TopDownController
+[2023.07.18-20.55.58:830][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.59:152][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:152][345]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor
+[2023.07.18-20.55.59:152][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.59:437][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/BP_UI_CCA.BP_UI_CCA) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:437][345]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Custom/Blueprints/BP_UI_CCA.BP_UI_CCA
+[2023.07.18-20.55.59:437][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-20.55.59:699][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/Enums/E_WeaponProperties.E_WeaponProperties) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:699][345]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom/Blueprints/Enums/E_WeaponProperties.E_WeaponProperties
+[2023.07.18-20.55.59:725][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/Enums/E_ActionType.E_ActionType) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:725][345]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom/Blueprints/Enums/E_ActionType.E_ActionType
+[2023.07.18-20.55.59:743][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/Enums/E_ArmorTypes.E_ArmorTypes) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:743][345]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom/Blueprints/Enums/E_ArmorTypes.E_ArmorTypes
+[2023.07.18-20.55.59:760][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/Enums/E_ChargesRefresh.E_ChargesRefresh) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:760][345]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom/Blueprints/Enums/E_ChargesRefresh.E_ChargesRefresh
+[2023.07.18-20.55.59:782][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/Enums/E_Classes.E_Classes) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:782][345]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom/Blueprints/Enums/E_Classes.E_Classes
+[2023.07.18-20.55.59:813][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/Enums/E_FrameMargin.E_FrameMargin) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:813][345]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom/Blueprints/Enums/E_FrameMargin.E_FrameMargin
+[2023.07.18-20.55.59:829][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/Enums/E_WeaponArchetypes.E_WeaponArchetypes) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:830][345]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom/Blueprints/Enums/E_WeaponArchetypes.E_WeaponArchetypes
+[2023.07.18-20.55.59:848][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/Enums/E_StandardItemType.E_StandardItemType) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:848][345]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom/Blueprints/Enums/E_StandardItemType.E_StandardItemType
+[2023.07.18-20.55.59:868][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/Enums/E_MenuState.E_MenuState) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:868][345]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom/Blueprints/Enums/E_MenuState.E_MenuState
+[2023.07.18-20.55.59:887][345]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/Custom/Blueprints/Enums/E_ItemRarity.E_ItemRarity) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2023.07.18-20.55.59:887][345]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Custom/Blueprints/Enums/E_ItemRarity.E_ItemRarity
+[2023.07.18-20.56.00:219][345]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.18-20.56.00:220][345]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.07.18-20.56.37:044][209]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18417751648590106657
+[2023.07.18-20.56.37:044][209]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2023.07.18-20.56.42:553][713]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-20.56.42:553][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-20.56.45:393][ 25]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-20.56.45:393][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-20.56.45:442][ 25]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.07.18-20.58.19:536][632]LogDerivedDataCache: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:54.084 and deleted 0 files with total size 0 MiB. Scanned 28257 files in 27220 folders with total size 2681 MiB.
+[2023.07.18-20.58.49:696][737]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-20.58.49:803][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.07.18-20.58.50:227][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-20.58.50:294][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-20.58.50:302][761]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.008343 seconds
+[2023.07.18-20.58.50:316][761]LogSerialization: UsePackageTrailer: 'true'
+[2023.07.18-20.58.50:327][761]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-20.58.50:327][761]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItemA727D9A2453CE58E767AD79FEEB9B7CB.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-20.58.50:337][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms
+[2023.07.18-20.58.50:343][761]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-20.58.50:343][761]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-20.59.39:705][ 76]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-20.59.39:805][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.07.18-20.59.40:219][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-20.59.40:278][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-20.59.40:303][ 97]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-20.59.40:303][ 97]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItem74CFFCF3473CBA87520ABE9BF958C6C5.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-20.59.40:307][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 197 ms)
+[2023.07.18-20.59.40:313][ 97]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-20.59.40:313][ 97]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-20.59.55:658][ 70]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-20.59.55:754][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.07.18-20.59.56:190][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-20.59.56:262][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-20.59.56:288][ 90]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-20.59.56:288][ 90]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItemD5937E75413ADE0C7FE82DACA8E777D6.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-20.59.56:293][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 300 ms)
+[2023.07.18-20.59.56:299][ 90]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-20.59.56:299][ 90]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.01.18:937][986]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.01.19:032][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.07.18-21.01.19:592][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.01.19:652][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.01.19:678][ 29]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.01.19:678][ 29]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItem08E992A2434AD870148273AAD43D2E5E.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.01.19:682][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 390 ms)
+[2023.07.18-21.01.19:688][ 29]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.01.19:688][ 29]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.02.24:300][395]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.02.24:403][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.07.18-21.02.24:725][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.02.24:791][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.02.24:817][410]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.02.24:817][410]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItem8DDC688F49818DF36D1314B3BDFD4D99.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.02.24:822][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 486 ms)
+[2023.07.18-21.02.24:827][410]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.02.24:827][410]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.02:257][359]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.02:357][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.07.18-21.03.02:395][359]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.02:474][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.07.18-21.03.02:805][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.03.02:863][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.03.02:889][378]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.02:890][378]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItem8F93412A49BD07E6F9308FAF50E05407.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.03.02:894][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 576 ms)
+[2023.07.18-21.03.02:900][378]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.02:900][378]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.15:360][494]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.15:462][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.07.18-21.03.15:850][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.03.15:912][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.03.15:938][512]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.15:938][512]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItem101EAD714F27AEF17FB8E2B4ABB4E405.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.03.15:943][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 669 ms)
+[2023.07.18-21.03.15:949][512]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.15:949][512]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.32:152][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.03.32:199][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.03.32:225][758]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.32:226][758]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItemD6F269CA4FEF5666461432BD496916F2.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.03.32:229][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 747 ms)
+[2023.07.18-21.03.32:241][758]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.32:241][758]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.32:975][820]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.03.33:076][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.07.18-21.03.51:916][569]LogSlate: Took 0.000979 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.07.18-21.05.23:713][244]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.05.23:770][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_Panel_Magic" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_Panel_Magic.uasset" SILENT=true
+[2023.07.18-21.05.23:781][244]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_Panel_Magic
+[2023.07.18-21.05.23:782][244]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_Panel_Magic665A7623418306D0F1295CB615AD3F93.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_Panel_Magic.uasset'
+[2023.07.18-21.05.23:792][244]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 825 ms)
+[2023.07.18-21.05.23:800][244]AssetCheck: New page: Asset Save: UI_Panel_Magic
+[2023.07.18-21.05.23:800][244]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_Panel_Magic.UI_Panel_Magic
+[2023.07.18-21.06.50:002][196]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-21.06.50:002][196]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.18-21.07.15:943][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.07.18-21.07.15:947][ 47]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1' took 0.074
+[2023.07.18-21.07.15:947][ 47]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Custom/UI/UI_GeneratorMenu_MagicItem] ([2] browsable assets)...
+[2023.07.18-21.07.15:966][ 47]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem]
+[2023.07.18-21.07.15:966][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/Custom/UI/UI_GeneratorMenu_MagicItem]
+[2023.07.18-21.07.15:992][ 47]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Custom/UI/UI_GeneratorMenu_MagicItem_Auto1
+[2023.07.18-21.07.15:993][ 47]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItem_Auto1A6B158464E04EBF142C53DAFC8B4A1B5.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/Autosaves/Game/Custom/UI/UI_GeneratorMenu_MagicItem_Auto1.uasset'
+[2023.07.18-21.07.15:994][ 47]LogFileHelpers: Auto-saving content packages took 0.046
+[2023.07.18-21.08.14:179][250]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.08.14:179][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.08.14:187][250]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.08.14:187][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.08.14:234][250]LogViewport: Scene viewport resized to 2838x1686, mode Windowed.
+[2023.07.18-21.08.15:010][294]LogShaderCompilers: Display: ================================================
+[2023.07.18-21.08.15:010][294]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.18-21.08.15:010][294]LogShaderCompilers: Display: Total job queries 597, among them cache hits 188 (31.49%)
+[2023.07.18-21.08.15:010][294]LogShaderCompilers: Display: Tracking 409 distinct input hashes that result in 81 distinct outputs (19.80%)
+[2023.07.18-21.08.15:010][294]LogShaderCompilers: Display: RAM used: 0.92 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.03%
+[2023.07.18-21.08.15:010][294]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.18-21.08.15:010][294]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.18-21.08.15:010][294]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.18-21.08.15:010][294]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.18-21.08.15:010][294]LogShaderCompilers: Display: ================================================
+[2023.07.18-21.08.51:959][404]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.08.52:064][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.07.18-21.08.53:092][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.08.53:156][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.08.53:182][452]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.08.53:182][452]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItemEC44769E46A509ABCB375B960C9478F6.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.08.53:187][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 919 ms)
+[2023.07.18-21.08.53:197][452]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.08.53:197][452]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.09.11:898][471]LogSlate: Window 'UI_GeneratorMenu_MagicItem' being destroyed
+[2023.07.18-21.09.33:941][162]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.09.34:042][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.07.18-21.09.34:392][180]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.09.34:459][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.09.34:486][180]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.09.34:486][180]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItem03051D524ADF276B686A93B73108B766.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.09.34:491][180]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.01 sec)
+[2023.07.18-21.09.34:498][180]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.09.34:498][180]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.09.46:936][ 82]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.09.47:038][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.07.18-21.09.47:357][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.09.47:430][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.09.47:457][ 96]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.09.47:457][ 96]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItemBAFE551340874E9F8E30EDA6F9F48B70.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.09.47:462][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.12 sec)
+[2023.07.18-21.09.47:472][ 96]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.09.47:472][ 96]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.10.25:145][356]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.10.25:249][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.07.18-21.10.25:590][373]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.10.25:648][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.10.25:674][373]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.10.25:675][373]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItemEAB72EE743F892DD0B9941B0F6DF14BB.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.10.25:680][373]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 1.21 sec)
+[2023.07.18-21.10.25:687][373]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.10.25:687][373]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.10.48:075][ 11]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.10.48:079][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.10.48:079][ 11]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:10:48 PM)
+[2023.07.18-21.10.48:082][ 11]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.07.18-21.10.48:082][ 11]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.18-21.10.48:082][ 11]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.10.48:121][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038408s)
+[2023.07.18-21.10.48:121][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.038441s)
+[2023.07.18-21.10.48:121][ 11]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.10.48:122][ 11]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.10.48:122][ 11]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2023.07.18-21.10.48:182][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.07.18-21.10.48:188][ 11]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.18-21.10.48:188][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.10.48:188][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.10.48:188][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.10.48:188][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.10.48:188][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.10.48:188][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.10.48:188][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.10.48:188][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.10.48:188][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.10.48:188][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.10.48:188][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.10.48:189][ 11]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.10.48:203][ 11]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.10.48:203][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.10.48:203][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.10.48:203][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.10.48:204][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.07.18-21.10.48:204][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.07.18-21.10.48:204][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.07.18-21.10.48:204][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.07.18-21.10.48:204][ 11]LogInit: FAudioDevice initialized.
+[2023.07.18-21.10.48:205][ 11]LogAudio: Display: Audio Device (ID: 2) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.10.48:249][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.10.48:251][ 11]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.10.48:271][ 11]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.10.48
+[2023.07.18-21.10.48:271][ 11]LogWorld: Bringing up level for play took: 0.021244
+[2023.07.18-21.10.48:273][ 11]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.07.18-21.10.48:282][ 11]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.10.48:282][ 11]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.10.48:282][ 11]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.10.48:285][ 11]LogBlueprintUserMessages: [BP_Item_Actor_C_0] X=0.250 Y=0.250 Z=0.250
+[2023.07.18-21.10.48:297][ 11]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.10.48:297][ 11]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.10.48:297][ 11]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.10.48:297][ 11]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.10.48:300][ 11]PIE: Server logged in
+[2023.07.18-21.10.48:302][ 11]PIE: Play in editor total start time 0.222 seconds.
+[2023.07.18-21.10.48:416][ 11]LogViewport: Scene viewport resized to 3865x2116, mode Windowed.
+[2023.07.18-21.10.48:705][ 13]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.10.57:764][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.10.57:764][668]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.10.57:764][668]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.10.57:772][668]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.10.57:772][668]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.10.57:775][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.10.57:777][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.10.57:786][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.10.57:841][668]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.10.57:846][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.18-21.10.57:848][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.18-21.10.57:894][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.07.18-21.10.57:919][669]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.07.18-21.12.05:820][282]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.12.05:940][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.07.18-21.12.06:437][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.12.06:511][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.12.06:538][309]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.12.06:538][309]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItem0F52591C4E81A2EAFE171DB63B4922DE.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.12.06:543][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.31 sec)
+[2023.07.18-21.12.06:552][309]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.12.06:552][309]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.12.33:736][566]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.12.33:840][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.07.18-21.12.34:207][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.12.34:279][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.12.34:307][581]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.12.34:307][581]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItemBBEA989E4F844EEC3284629FD40F3AB9.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.12.34:311][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.42 sec)
+[2023.07.18-21.12.34:319][581]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.12.34:319][581]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.13.25:134][671]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.13.25:236][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.07.18-21.13.26:333][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.13.26:398][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.13.26:426][732]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.13.26:426][732]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItemE2EF2A6741C12FA04E80789B71DE4391.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.13.26:431][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.51 sec)
+[2023.07.18-21.13.26:441][732]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.13.26:441][732]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.13.27:281][792]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.13.27:286][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.13.27:286][792]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:13:27 PM)
+[2023.07.18-21.13.27:286][792]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.13.27:323][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036809s)
+[2023.07.18-21.13.27:323][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.036834s)
+[2023.07.18-21.13.27:323][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.13.27:323][792]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.13.27:324][792]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2023.07.18-21.13.27:382][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.07.18-21.13.27:392][792]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.07.18-21.13.27:392][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.13.27:392][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.13.27:392][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.13.27:392][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.13.27:393][792]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.13.27:393][792]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.13.27:393][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.13.27:393][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.13.27:393][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.13.27:393][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.13.27:393][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.13.27:394][792]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.13.27:405][792]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.13.27:405][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.13.27:405][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.13.27:405][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.13.27:406][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.07.18-21.13.27:406][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.07.18-21.13.27:406][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.07.18-21.13.27:406][792]LogInit: FAudioDevice initialized.
+[2023.07.18-21.13.27:407][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.07.18-21.13.27:407][792]LogAudio: Display: Audio Device (ID: 3) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.13.27:447][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.13.27:447][792]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.13.27:467][792]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.13.27
+[2023.07.18-21.13.27:467][792]LogWorld: Bringing up level for play took: 0.019446
+[2023.07.18-21.13.27:468][792]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.07.18-21.13.27:469][792]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.13.27:469][792]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.13.27:469][792]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.13.27:471][792]LogBlueprintUserMessages: [BP_Item_Actor_C_0] X=0.250 Y=0.250 Z=0.250
+[2023.07.18-21.13.27:484][792]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.13.27:484][792]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.13.27:484][792]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.13.27:485][792]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.13.27:489][792]PIE: Server logged in
+[2023.07.18-21.13.27:493][792]PIE: Play in editor total start time 0.207 seconds.
+[2023.07.18-21.13.27:583][792]LogViewport: Scene viewport resized to 3868x2136, mode Windowed.
+[2023.07.18-21.13.27:810][799]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.13.41:293][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.13.41:293][767]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.13.41:294][767]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.13.41:302][767]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.13.41:302][767]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.13.41:305][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.13.41:307][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.13.41:315][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.13.41:372][767]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.13.41:373][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.18-21.13.41:374][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.07.18-21.13.41:385][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.07.18-21.13.41:413][768]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.07.18-21.13.45:909][ 78]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.13.45:914][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.13.45:914][ 78]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:13:45 PM)
+[2023.07.18-21.13.45:914][ 78]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.13.45:952][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037959s)
+[2023.07.18-21.13.45:952][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.037982s)
+[2023.07.18-21.13.45:952][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.13.45:952][ 78]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.13.45:952][ 78]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2023.07.18-21.13.46:003][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.07.18-21.13.46:007][ 78]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.07.18-21.13.46:007][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.13.46:007][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.13.46:007][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.13.46:007][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.13.46:007][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.13.46:007][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.13.46:007][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.13.46:007][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.13.46:008][ 78]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.13.46:008][ 78]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.13.46:008][ 78]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.13.46:009][ 78]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.13.46:020][ 78]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.13.46:020][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.13.46:020][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.13.46:020][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.13.46:021][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.07.18-21.13.46:021][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.07.18-21.13.46:021][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.07.18-21.13.46:021][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.07.18-21.13.46:021][ 78]LogInit: FAudioDevice initialized.
+[2023.07.18-21.13.46:021][ 78]LogAudio: Display: Audio Device (ID: 4) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.13.46:064][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.13.46:064][ 78]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.13.46:083][ 78]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.13.46
+[2023.07.18-21.13.46:083][ 78]LogWorld: Bringing up level for play took: 0.018644
+[2023.07.18-21.13.46:085][ 78]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.07.18-21.13.46:085][ 78]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.13.46:085][ 78]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.13.46:085][ 78]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.13.46:088][ 78]LogBlueprintUserMessages: [BP_Item_Actor_C_0] X=0.250 Y=0.250 Z=0.250
+[2023.07.18-21.13.46:101][ 78]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.13.46:101][ 78]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.13.46:101][ 78]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.13.46:101][ 78]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.13.46:105][ 78]PIE: Server logged in
+[2023.07.18-21.13.46:110][ 78]PIE: Play in editor total start time 0.196 seconds.
+[2023.07.18-21.13.46:191][ 78]LogViewport: Scene viewport resized to 3871x2156, mode Windowed.
+[2023.07.18-21.13.46:415][ 85]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.13.55:585][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.13.55:585][756]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.13.55:585][756]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.13.55:588][756]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.13.55:588][756]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.13.55:592][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.13.55:598][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.13.55:607][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.13.55:659][756]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.13.55:660][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.07.18-21.13.55:661][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.07.18-21.13.55:678][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.07.18-21.13.55:704][757]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.07.18-21.13.59:315][ 40]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.13.59:412][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.07.18-21.13.59:906][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.13.59:967][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.13.59:994][ 67]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.13.59:994][ 67]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItem107945CA46AC9330A64B08B740C1CEF4.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.13.59:999][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.61 sec)
+[2023.07.18-21.14.00:008][ 67]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.00:008][ 67]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.00:296][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.14.00:354][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.14.00:381][ 87]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.00:381][ 87]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItemAA7C2A964C534BD43B3FCEBD555FF6CF.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.14.00:385][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.70 sec)
+[2023.07.18-21.14.00:397][ 87]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.00:398][ 87]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.00:483][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.14.00:535][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.14.00:562][ 91]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.00:563][ 91]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItemFC5E0F454AF2264B15F93189A26728FD.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.14.00:567][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 1.78 sec)
+[2023.07.18-21.14.00:575][ 91]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.00:575][ 91]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.01:724][168]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.14.01:730][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.14.01:730][168]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:14:01 PM)
+[2023.07.18-21.14.01:730][168]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.14.01:768][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037886s)
+[2023.07.18-21.14.01:768][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.037910s)
+[2023.07.18-21.14.01:768][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.14.01:769][168]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.14.01:769][168]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2023.07.18-21.14.01:828][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.07.18-21.14.01:838][168]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.07.18-21.14.01:838][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.14.01:838][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.14.01:838][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.14.01:838][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.14.01:839][168]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.14.01:839][168]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.14.01:839][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.14.01:839][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.14.01:839][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.14.01:839][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.14.01:839][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.14.01:841][168]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.14.01:851][168]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.14.01:851][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.14.01:851][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.14.01:851][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.14.01:852][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.07.18-21.14.01:852][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.07.18-21.14.01:853][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.07.18-21.14.01:853][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.07.18-21.14.01:853][168]LogInit: FAudioDevice initialized.
+[2023.07.18-21.14.01:853][168]LogAudio: Display: Audio Device (ID: 5) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.14.01:899][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.14.01:899][168]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.14.01:919][168]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.14.01
+[2023.07.18-21.14.01:919][168]LogWorld: Bringing up level for play took: 0.019414
+[2023.07.18-21.14.01:921][168]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.07.18-21.14.01:921][168]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.14.01:921][168]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.14.01:921][168]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.14.01:924][168]LogBlueprintUserMessages: [BP_Item_Actor_C_0] X=0.250 Y=0.250 Z=0.250
+[2023.07.18-21.14.01:936][168]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.14.01:937][168]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.14.01:937][168]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.14.01:937][168]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.14.01:942][168]PIE: Server logged in
+[2023.07.18-21.14.01:945][168]PIE: Play in editor total start time 0.215 seconds.
+[2023.07.18-21.14.02:036][168]LogViewport: Scene viewport resized to 3874x2176, mode Windowed.
+[2023.07.18-21.14.02:272][175]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.14.19:074][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.14.19:074][412]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.14.19:074][412]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.14.19:080][412]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.14.19:080][412]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.14.19:083][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.14.19:085][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.14.19:094][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.14.19:151][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.14.19:152][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.07.18-21.14.19:153][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.07.18-21.14.19:165][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.07.18-21.14.19:210][413]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.07.18-21.14.29:406][264]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.29:505][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.07.18-21.14.29:884][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.14.29:954][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.14.29:981][283]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.29:982][283]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItemE2F4005E4161190735F3DB9078869D9A.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.14.29:986][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1.88 sec)
+[2023.07.18-21.14.29:994][283]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.29:994][283]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.14.30:731][338]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.14.30:736][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.14.30:736][338]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:14:30 PM)
+[2023.07.18-21.14.30:737][338]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.14.30:776][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038265s)
+[2023.07.18-21.14.30:776][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.038291s)
+[2023.07.18-21.14.30:776][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.14.30:776][338]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.14.30:777][338]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2023.07.18-21.14.30:832][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.07.18-21.14.30:840][338]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.07.18-21.14.30:840][338]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.14.30:840][338]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.14.30:840][338]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.14.30:840][338]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.14.30:840][338]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.14.30:840][338]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.14.30:840][338]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.14.30:840][338]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.14.30:840][338]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.14.30:840][338]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.14.30:840][338]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.14.30:842][338]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.14.30:852][338]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.14.30:852][338]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.14.30:852][338]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.14.30:852][338]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.14.30:853][338]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.07.18-21.14.30:853][338]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.07.18-21.14.30:854][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.07.18-21.14.30:854][338]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.07.18-21.14.30:854][338]LogInit: FAudioDevice initialized.
+[2023.07.18-21.14.30:854][338]LogAudio: Display: Audio Device (ID: 6) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.14.30:902][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.14.30:902][338]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.14.30:921][338]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.14.30
+[2023.07.18-21.14.30:921][338]LogWorld: Bringing up level for play took: 0.019213
+[2023.07.18-21.14.30:923][338]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.07.18-21.14.30:923][338]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.14.30:923][338]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.14.30:923][338]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.14.30:926][338]LogBlueprintUserMessages: [BP_Item_Actor_C_0] X=0.250 Y=0.250 Z=0.250
+[2023.07.18-21.14.30:939][338]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.14.30:939][338]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.14.30:939][338]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.14.30:939][338]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.14.30:943][338]PIE: Server logged in
+[2023.07.18-21.14.30:946][338]PIE: Play in editor total start time 0.21 seconds.
+[2023.07.18-21.14.31:031][338]LogViewport: Scene viewport resized to 3877x2195, mode Windowed.
+[2023.07.18-21.14.31:068][339]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 13591461883876612622
+[2023.07.18-21.14.31:072][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.14.31:155][340]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.18-21.14.31:161][340]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.07.18-21.14.31:167][340]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.07.18-21.14.31:169][340]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.07.18-21.14.31:174][340]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.18-21.14.31:176][340]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.07.18-21.14.31:265][345]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.14.58:125][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.14.58:125][977]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.14.58:125][977]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.14.58:128][977]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.14.58:129][977]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.14.58:132][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.14.58:134][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.14.58:142][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.14.58:200][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.14.58:201][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.07.18-21.14.58:203][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.07.18-21.14.58:215][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.07.18-21.14.58:246][978]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.07.18-21.15.11:494][ 66]BlueprintLog: New page: Compile UI_GeneratorMenu_MagicItem
+[2023.07.18-21.15.11:577][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.07.18-21.15.11:990][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.15.12:058][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/UI/UI_GeneratorMenu_MagicItem" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset" SILENT=true
+[2023.07.18-21.15.12:085][ 87]LogSavePackage: Moving output files for package: /Game/Custom/UI/UI_GeneratorMenu_MagicItem
+[2023.07.18-21.15.12:086][ 87]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/UI_GeneratorMenu_MagicItem7B43CDB74386894F960B0BA93BEA2946.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/UI/UI_GeneratorMenu_MagicItem.uasset'
+[2023.07.18-21.15.12:091][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1.98 sec)
+[2023.07.18-21.15.12:100][ 87]AssetCheck: New page: Asset Save: UI_GeneratorMenu_MagicItem
+[2023.07.18-21.15.12:100][ 87]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Custom/UI/UI_GeneratorMenu_MagicItem.UI_GeneratorMenu_MagicItem
+[2023.07.18-21.15.13:025][153]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.15.13:029][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.15.13:029][153]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:15:13 PM)
+[2023.07.18-21.15.13:029][153]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.15.13:067][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036984s)
+[2023.07.18-21.15.13:067][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.037007s)
+[2023.07.18-21.15.13:067][153]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.15.13:067][153]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.15.13:068][153]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2023.07.18-21.15.13:124][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.07.18-21.15.13:133][153]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.07.18-21.15.13:133][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.15.13:133][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.15.13:133][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.15.13:133][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.15.13:133][153]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.15.13:133][153]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.15.13:133][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.15.13:133][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.15.13:133][153]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.15.13:133][153]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.15.13:133][153]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.15.13:135][153]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.15.13:146][153]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.15.13:147][153]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.15.13:147][153]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.15.13:147][153]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.15.13:147][153]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.07.18-21.15.13:147][153]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.07.18-21.15.13:148][153]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.07.18-21.15.13:148][153]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.07.18-21.15.13:148][153]LogInit: FAudioDevice initialized.
+[2023.07.18-21.15.13:148][153]LogAudio: Display: Audio Device (ID: 7) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.15.13:189][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.15.13:189][153]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.15.13:209][153]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.15.13
+[2023.07.18-21.15.13:209][153]LogWorld: Bringing up level for play took: 0.019774
+[2023.07.18-21.15.13:211][153]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.07.18-21.15.13:211][153]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.15.13:211][153]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.15.13:211][153]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.15.13:214][153]LogBlueprintUserMessages: [BP_Item_Actor_C_0] X=0.250 Y=0.250 Z=0.250
+[2023.07.18-21.15.13:228][153]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.15.13:228][153]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.15.13:228][153]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.15.13:228][153]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.15.13:233][153]PIE: Server logged in
+[2023.07.18-21.15.13:236][153]PIE: Play in editor total start time 0.207 seconds.
+[2023.07.18-21.15.13:322][153]LogViewport: Scene viewport resized to 3880x2195, mode Windowed.
+[2023.07.18-21.15.13:537][161]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.15.33:093][601]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.15.33:249][612]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.15.33:383][622]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.15.33:549][631]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.15.33:703][640]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.15.33:860][652]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.15.34:023][664]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.15.34:184][676]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.15.35:251][754]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.15.35:359][762]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.15.35:505][773]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.15.35:623][781]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.15.35:905][802]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.15.36:044][812]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.15.36:190][821]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.15.36:328][830]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.15.36:469][840]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.15.36:599][850]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.15.36:723][856]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.15.36:878][866]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.15.37:008][875]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.15.37:166][886]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.15.37:291][896]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.15.37:434][905]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.15.37:565][915]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.15.37:728][927]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.15.37:866][937]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.15.38:019][948]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.15.38:593][990]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.15.38:732][999]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.15.38:849][  8]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.15.38:982][ 18]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.15.39:119][ 28]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.15.39:277][ 39]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.15.41:531][204]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.15.41:692][215]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.15.41:807][224]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.15.41:957][235]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.15.42:064][243]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.15.42:242][254]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.15.42:361][263]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.15.42:515][275]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.15.42:665][286]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.15.42:816][296]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.15.42:960][307]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.15.43:125][319]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.15.43:284][331]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.15.43:437][342]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.15.45:629][501]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.15.45:756][510]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.15.45:913][521]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.15.46:906][589]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.15.47:055][599]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.15.47:202][610]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.15.47:353][621]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.15.47:528][633]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.15.48:337][693]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.15.48:473][703]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.15.48:601][712]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.15.48:746][722]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.15.56:224][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.15.56:224][269]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.15.56:225][269]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.15.56:231][269]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.15.56:231][269]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.15.56:235][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.15.56:237][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.15.56:247][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.15.56:306][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.15.56:308][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.07.18-21.15.56:309][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.07.18-21.15.56:321][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.07.18-21.15.56:379][270]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.07.18-21.16.05:020][873]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.16.05:026][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.16.05:026][873]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:16:05 PM)
+[2023.07.18-21.16.05:026][873]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.16.05:064][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037946s)
+[2023.07.18-21.16.05:064][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.037971s)
+[2023.07.18-21.16.05:064][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.16.05:064][873]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.16.05:064][873]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2023.07.18-21.16.05:115][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.07.18-21.16.05:121][873]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.07.18-21.16.05:121][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.16.05:121][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.16.05:121][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.16.05:121][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.16.05:121][873]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.16.05:121][873]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.16.05:121][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.16.05:121][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.16.05:121][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.16.05:121][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.16.05:121][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.16.05:123][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.16.05:134][873]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.16.05:134][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.16.05:134][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.16.05:134][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.16.05:134][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.07.18-21.16.05:134][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.07.18-21.16.05:135][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.07.18-21.16.05:135][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.07.18-21.16.05:135][873]LogInit: FAudioDevice initialized.
+[2023.07.18-21.16.05:135][873]LogAudio: Display: Audio Device (ID: 8) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.16.05:178][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.16.05:178][873]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.16.05:196][873]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.16.05
+[2023.07.18-21.16.05:197][873]LogWorld: Bringing up level for play took: 0.019053
+[2023.07.18-21.16.05:198][873]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.07.18-21.16.05:199][873]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.16.05:199][873]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.16.05:199][873]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.16.05:202][873]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2023.07.18-21.16.05:202][873]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor_C:ReceiveBeginPlay
+	Function /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor_C:ExecuteUbergraph_BP_Item_Actor
+	Function /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor_C:InitUpdate
+	Function /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor_C:UpdateScale
+
+[2023.07.18-21.16.05:212][873]LogViewport: Scene viewport resized to 3883x2195, mode Windowed.
+[2023.07.18-21.16.07:468][873]LogBlueprintUserMessages: [BP_Item_Actor_C_0] X=0.250 Y=0.250 Z=0.250
+[2023.07.18-21.16.07:481][873]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.16.07:481][873]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.16.07:481][873]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.16.07:481][873]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.16.07:482][873]PIE: Server logged in
+[2023.07.18-21.16.07:485][873]PIE: Play in editor total start time 2.46 seconds.
+[2023.07.18-21.16.07:770][881]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.16.11:830][159]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor without an associated node. The blueprint breakpoint has been removed
+[2023.07.18-21.16.11:830][159]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor without an associated node. The blueprint breakpoint has been removed
+[2023.07.18-21.16.14:124][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.16.14:124][310]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.16.14:124][310]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.16.14:128][310]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.16.14:128][310]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.16.14:131][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.16.14:133][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.16.14:141][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.16.14:199][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.16.14:200][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.07.18-21.16.14:201][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.07.18-21.16.14:213][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.07.18-21.16.14:239][311]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.07.18-21.16.24:170][ 74]BlueprintLog: New page: Compile BP_Item_Actor
+[2023.07.18-21.16.24:258][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.07.18-21.16.24:693][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.16.24:733][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Blueprints/BP_Item_Actor" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset" SILENT=true
+[2023.07.18-21.16.24:760][103]LogSavePackage: Moving output files for package: /Game/Custom/Blueprints/BP_Item_Actor
+[2023.07.18-21.16.24:761][103]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/BP_Item_Actor712DF0E147D3E2ADCAC40EA4FF1C8ECF.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset'
+[2023.07.18-21.16.24:769][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2.06 sec)
+[2023.07.18-21.16.24:776][103]AssetCheck: New page: Asset Save: BP_Item_Actor
+[2023.07.18-21.16.24:776][103]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor
+[2023.07.18-21.16.25:631][168]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.16.25:636][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.16.25:636][168]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:16:25 PM)
+[2023.07.18-21.16.25:637][168]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.16.25:675][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037837s)
+[2023.07.18-21.16.25:675][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.037861s)
+[2023.07.18-21.16.25:675][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.16.25:675][168]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.16.25:676][168]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2023.07.18-21.16.25:725][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.07.18-21.16.25:732][168]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.07.18-21.16.25:732][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.16.25:732][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.16.25:732][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.16.25:732][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.16.25:732][168]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.16.25:732][168]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.16.25:732][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.16.25:732][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.16.25:732][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.16.25:732][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.16.25:732][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.16.25:734][168]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.16.25:744][168]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.16.25:744][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.16.25:744][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.16.25:744][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.16.25:745][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.07.18-21.16.25:745][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.07.18-21.16.25:746][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.07.18-21.16.25:746][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.07.18-21.16.25:746][168]LogInit: FAudioDevice initialized.
+[2023.07.18-21.16.25:746][168]LogAudio: Display: Audio Device (ID: 9) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.16.25:796][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.16.25:796][168]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.16.25:816][168]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.16.25
+[2023.07.18-21.16.25:816][168]LogWorld: Bringing up level for play took: 0.020146
+[2023.07.18-21.16.25:818][168]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.07.18-21.16.25:818][168]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.16.25:818][168]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.16.25:818][168]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.16.25:833][168]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.16.25:834][168]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.16.25:834][168]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.16.25:834][168]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.16.25:836][168]PIE: Server logged in
+[2023.07.18-21.16.25:837][168]PIE: Play in editor total start time 0.201 seconds.
+[2023.07.18-21.16.25:919][168]LogViewport: Scene viewport resized to 3886x2195, mode Windowed.
+[2023.07.18-21.16.26:140][177]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.16.27:288][259]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.16.27:435][270]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.16.27:568][280]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.16.27:716][291]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.16.27:851][301]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.16.27:972][310]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.16.28:119][321]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.16.28:264][332]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.16.28:398][342]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.16.28:548][353]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.16.28:696][364]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.16.28:855][376]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.16.28:987][386]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.16.29:108][395]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.16.29:245][405]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.16.29:367][414]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.16.29:502][424]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.16.29:637][434]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.16.29:782][445]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.16.29:918][455]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.16.30:068][466]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.16.30:231][478]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.16.30:389][490]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.16.30:550][502]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.16.30:776][519]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.16.30:941][531]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.16.31:104][543]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.16.31:275][555]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.16.31:523][573]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.16.31:728][588]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.16.31:981][606]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.16.32:179][620]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.16.32:411][637]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.16.32:608][652]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.16.32:889][673]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.16.33:234][698]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.16.33:621][727]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.16.33:792][740]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.16.41:430][283]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.16.41:631][298]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.16.43:226][416]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.16.52:904][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.16.52:904][138]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.16.52:904][138]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.16.52:911][138]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.16.52:912][138]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.16.52:915][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.16.52:917][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.16.52:925][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.16.52:984][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.07.18-21.16.52:985][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.07.18-21.16.52:998][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.07.18-21.16.53:022][139]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.07.18-21.17.09:281][453]BlueprintLog: New page: Compile BP_Item_Actor
+[2023.07.18-21.17.09:370][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.07.18-21.17.09:760][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.17.09:803][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Blueprints/BP_Item_Actor" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset" SILENT=true
+[2023.07.18-21.17.09:827][477]LogSavePackage: Moving output files for package: /Game/Custom/Blueprints/BP_Item_Actor
+[2023.07.18-21.17.09:827][477]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/BP_Item_Actor93E196264769060C93E4F0811C967FE3.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset'
+[2023.07.18-21.17.09:832][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 2.13 sec)
+[2023.07.18-21.17.09:843][477]AssetCheck: New page: Asset Save: BP_Item_Actor
+[2023.07.18-21.17.09:843][477]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor
+[2023.07.18-21.17.12:362][661]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.17.12:366][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.17.12:366][661]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:17:12 PM)
+[2023.07.18-21.17.12:367][661]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.17.12:404][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037596s)
+[2023.07.18-21.17.12:404][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.037618s)
+[2023.07.18-21.17.12:404][661]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.17.12:404][661]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.17.12:405][661]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2023.07.18-21.17.12:454][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.07.18-21.17.12:460][661]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.07.18-21.17.12:460][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.17.12:460][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.17.12:460][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.17.12:460][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.17.12:460][661]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.17.12:460][661]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.17.12:460][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.17.12:460][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.17.12:460][661]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.17.12:460][661]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.17.12:460][661]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.17.12:462][661]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.17.12:473][661]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.17.12:473][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.17.12:473][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.17.12:473][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.17.12:474][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.07.18-21.17.12:474][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.07.18-21.17.12:475][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.07.18-21.17.12:475][661]LogInit: FAudioDevice initialized.
+[2023.07.18-21.17.12:475][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.07.18-21.17.12:475][661]LogAudio: Display: Audio Device (ID: 10) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.17.12:515][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.17.12:516][661]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.17.12:534][661]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.17.12
+[2023.07.18-21.17.12:535][661]LogWorld: Bringing up level for play took: 0.018608
+[2023.07.18-21.17.12:536][661]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.07.18-21.17.12:537][661]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.17.12:537][661]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.17.12:537][661]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.17.12:539][661]LogBlueprintUserMessages: [BP_Item_Actor_C_0] X=0.250 Y=0.250 Z=0.250
+[2023.07.18-21.17.12:552][661]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.17.12:552][661]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.17.12:552][661]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.17.12:552][661]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.17.12:555][661]PIE: Server logged in
+[2023.07.18-21.17.12:556][661]PIE: Play in editor total start time 0.19 seconds.
+[2023.07.18-21.17.12:634][661]LogViewport: Scene viewport resized to 3889x2195, mode Windowed.
+[2023.07.18-21.17.12:853][670]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.17.14:936][822]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.17.15:099][834]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.17.15:220][843]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.17.15:423][857]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.17.15:574][868]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.17.16:596][940]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.17.16:757][951]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.17.16:891][960]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.17.17:049][971]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.17.17:211][982]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.17.17:368][993]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.17.17:531][  5]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.17.21:974][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.17.21:974][304]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.17.21:975][304]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.17.21:978][304]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.17.21:978][304]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.17.21:981][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.17.21:983][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.17.21:991][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.17.22:051][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.17.22:052][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.07.18-21.17.22:053][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.07.18-21.17.22:064][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.07.18-21.17.22:089][305]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.07.18-21.18.02:427][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.18.02:475][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Blueprints/BP_Item_Actor" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset" SILENT=true
+[2023.07.18-21.18.02:499][299]LogSavePackage: Moving output files for package: /Game/Custom/Blueprints/BP_Item_Actor
+[2023.07.18-21.18.02:500][299]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/BP_Item_ActorFDCE861C48C2161721196FA731689AF7.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset'
+[2023.07.18-21.18.02:504][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.21 sec)
+[2023.07.18-21.18.02:517][299]AssetCheck: New page: Asset Save: BP_Item_Actor
+[2023.07.18-21.18.02:517][299]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor
