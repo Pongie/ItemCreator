@@ -1,0 +1,6 @@
+---,Name,Description,StandardProperties
+Claypot,Claypot,"""A pot made of clay used as a container to store items.""","(""none"")"
+Goggles,Goggles,"""A set of protective lenses typically for the eyes, bound with a strap and buckle.""","(""none"")"
+Helmet,Helmet,"""A protective layer that goes over the skull.""","(""none"")"
+Scroll,Scroll,"""A piece of parchment used for writing or recording.""","(""writing"",""material"")"
+Lute,Lute,"""A musical instrument with up to 15 strings.""","(""instrument"")"

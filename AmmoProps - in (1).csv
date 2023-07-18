@@ -1,0 +1,6 @@
+---,Name,ArmorType,StrengthRequirement,ArmorClass,Stealth,DexterityModAllowed
+Chainmail,Chainmail,Heavy,13,16,Disadvantage,0
+Platemail,Platemail,Heavy,15,18,Disadvantage,0
+Leather,Leather,Light,0,11,Standard,5
+Studded Leather,Studded Leather,Light,0,12,Standard,5
+Shield,Shield,None,0,2,Standard,5

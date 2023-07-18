@@ -2149,3 +2149,802 @@ Script call stack:
 [2023.07.18-21.18.02:504][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.21 sec)
 [2023.07.18-21.18.02:517][299]AssetCheck: New page: Asset Save: BP_Item_Actor
 [2023.07.18-21.18.02:517][299]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor
+[2023.07.18-21.18.48:242][509]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.18.48:247][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.18.48:247][509]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:18:48 PM)
+[2023.07.18-21.18.48:247][509]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.18.48:284][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037593s)
+[2023.07.18-21.18.48:284][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.037619s)
+[2023.07.18-21.18.48:284][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.18.48:285][509]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.18.48:285][509]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2023.07.18-21.18.48:335][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.07.18-21.18.48:345][509]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.07.18-21.18.48:345][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.18.48:345][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.18.48:345][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.18.48:345][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.18.48:345][509]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.18.48:345][509]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.18.48:345][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.18.48:345][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.18.48:346][509]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.18.48:346][509]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.18.48:346][509]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.18.48:347][509]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.18.48:358][509]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.18.48:358][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.18.48:358][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.18.48:358][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.18.48:359][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.07.18-21.18.48:359][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.07.18-21.18.48:359][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.07.18-21.18.48:359][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.07.18-21.18.48:359][509]LogInit: FAudioDevice initialized.
+[2023.07.18-21.18.48:359][509]LogAudio: Display: Audio Device (ID: 11) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.18.48:392][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.18.48:392][509]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.18.48:412][509]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.18.48
+[2023.07.18-21.18.48:413][509]LogWorld: Bringing up level for play took: 0.020316
+[2023.07.18-21.18.48:414][509]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.07.18-21.18.48:415][509]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.18.48:415][509]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.18.48:415][509]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.18.48:417][509]LogBlueprintUserMessages: [BP_Item_Actor_C_0] X=0.250 Y=0.250 Z=0.250
+[2023.07.18-21.18.48:430][509]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.18.48:430][509]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.18.48:430][509]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.18.48:431][509]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.18.48:435][509]PIE: Server logged in
+[2023.07.18-21.18.48:439][509]PIE: Play in editor total start time 0.192 seconds.
+[2023.07.18-21.18.48:519][509]LogViewport: Scene viewport resized to 3892x2195, mode Windowed.
+[2023.07.18-21.18.48:748][518]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.18.49:927][602]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.18.50:078][614]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.18.50:213][624]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.18.50:331][632]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.18.50:595][651]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.18.50:749][663]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.18.50:870][672]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.18.51:018][682]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.18.51:147][692]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.18.51:275][702]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.18.51:402][711]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.19.45:945][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.19.45:945][745]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.19.45:946][745]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.19.45:949][745]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.19.45:949][745]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.19.45:953][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.19.45:955][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.19.45:963][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.19.46:018][745]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.19.46:020][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.07.18-21.19.46:021][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.07.18-21.19.46:034][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.07.18-21.19.46:066][746]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.07.18-21.19.58:186][703]BlueprintLog: New page: Compile BP_Item_Actor
+[2023.07.18-21.19.58:280][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.07.18-21.19.58:850][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.19.58:902][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Blueprints/BP_Item_Actor" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset" SILENT=true
+[2023.07.18-21.19.58:926][739]LogSavePackage: Moving output files for package: /Game/Custom/Blueprints/BP_Item_Actor
+[2023.07.18-21.19.58:927][739]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/BP_Item_ActorAC15050543A8D03F224E64AEB4B56209.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset'
+[2023.07.18-21.19.58:931][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.29 sec)
+[2023.07.18-21.19.58:939][739]AssetCheck: New page: Asset Save: BP_Item_Actor
+[2023.07.18-21.19.58:939][739]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor
+[2023.07.18-21.20.03:481][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.20.03:538][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Blueprints/BP_Item_Actor" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset" SILENT=true
+[2023.07.18-21.20.03:564][149]LogSavePackage: Moving output files for package: /Game/Custom/Blueprints/BP_Item_Actor
+[2023.07.18-21.20.03:564][149]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/BP_Item_ActorFAFFC9F145EB6110543F4F96F82EFE56.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset'
+[2023.07.18-21.20.03:568][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 2.38 sec)
+[2023.07.18-21.20.03:578][149]AssetCheck: New page: Asset Save: BP_Item_Actor
+[2023.07.18-21.20.03:578][149]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor
+[2023.07.18-21.20.04:823][238]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.20.04:828][238]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.18-21.20.04:830][238]LogPlayLevel: [PlayLevel] Compiling BP_Item_Actor before play...
+[2023.07.18-21.20.04:935][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.07.18-21.20.04:942][238]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (1 blueprints)
+[2023.07.18-21.20.04:942][238]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:20:04 PM)
+[2023.07.18-21.20.04:942][238]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.20.04:980][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038407s)
+[2023.07.18-21.20.04:980][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.038430s)
+[2023.07.18-21.20.04:980][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.20.04:981][238]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.20.04:981][238]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2023.07.18-21.20.05:030][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.07.18-21.20.05:031][238]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.07.18-21.20.05:031][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.20.05:031][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.20.05:031][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.20.05:031][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.20.05:031][238]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.20.05:032][238]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.20.05:032][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.20.05:032][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.20.05:032][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.20.05:032][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.20.05:032][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.20.05:033][238]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.20.05:045][238]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.20.05:045][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.20.05:045][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.20.05:045][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.20.05:045][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.07.18-21.20.05:045][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.07.18-21.20.05:046][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.07.18-21.20.05:046][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.07.18-21.20.05:046][238]LogInit: FAudioDevice initialized.
+[2023.07.18-21.20.05:046][238]LogAudio: Display: Audio Device (ID: 12) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.20.05:098][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.20.05:098][238]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.20.05:117][238]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.20.05
+[2023.07.18-21.20.05:118][238]LogWorld: Bringing up level for play took: 0.019338
+[2023.07.18-21.20.05:119][238]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.07.18-21.20.05:120][238]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.20.05:120][238]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.20.05:120][238]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.20.05:122][238]LogBlueprintUserMessages: [BP_Item_Actor_C_0] X=0.250 Y=0.250 Z=0.250
+[2023.07.18-21.20.05:136][238]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.20.05:136][238]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.20.05:136][238]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.20.05:136][238]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.20.05:138][238]PIE: Server logged in
+[2023.07.18-21.20.05:139][238]PIE: Play in editor total start time 0.312 seconds.
+[2023.07.18-21.20.05:177][238]LogViewport: Scene viewport resized to 3895x2195, mode Windowed.
+[2023.07.18-21.20.05:418][243]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.20.06:906][346]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.20.07:298][370]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.20.07:493][384]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.20.07:631][394]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.20.07:787][405]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.20.07:926][415]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.20.08:077][426]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.20.10:104][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.20.10:104][556]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.20.10:104][556]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.20.10:108][556]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.20.10:108][556]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.20.10:111][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.20.10:113][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.20.10:122][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.20.10:175][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.20.10:176][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.07.18-21.20.10:178][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.07.18-21.20.10:193][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.07.18-21.20.10:218][557]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.07.18-21.20.15:863][ 25]BlueprintLog: New page: Compile BP_Item_Actor
+[2023.07.18-21.20.15:950][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.07.18-21.20.16:644][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.20.16:686][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Blueprints/BP_Item_Actor" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset" SILENT=true
+[2023.07.18-21.20.16:712][ 72]LogSavePackage: Moving output files for package: /Game/Custom/Blueprints/BP_Item_Actor
+[2023.07.18-21.20.16:712][ 72]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/BP_Item_Actor934254C24433408628A4A0B85AFE1512.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset'
+[2023.07.18-21.20.16:716][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 2.45 sec)
+[2023.07.18-21.20.16:725][ 72]AssetCheck: New page: Asset Save: BP_Item_Actor
+[2023.07.18-21.20.16:726][ 72]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor
+[2023.07.18-21.20.17:684][136]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.20.17:689][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.20.17:689][136]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:20:17 PM)
+[2023.07.18-21.20.17:689][136]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.20.17:728][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039349s)
+[2023.07.18-21.20.17:728][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.039372s)
+[2023.07.18-21.20.17:728][136]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.20.17:729][136]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.20.17:729][136]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2023.07.18-21.20.17:777][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.07.18-21.20.17:783][136]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.07.18-21.20.17:784][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.20.17:784][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.20.17:784][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.20.17:784][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.20.17:784][136]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.20.17:784][136]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.20.17:784][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.20.17:784][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.20.17:784][136]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.20.17:784][136]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.20.17:784][136]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.20.17:785][136]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.20.17:795][136]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.20.17:796][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.20.17:796][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.20.17:796][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.20.17:796][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.07.18-21.20.17:796][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.07.18-21.20.17:797][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.07.18-21.20.17:797][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.07.18-21.20.17:797][136]LogInit: FAudioDevice initialized.
+[2023.07.18-21.20.17:797][136]LogAudio: Display: Audio Device (ID: 13) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.20.17:833][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.20.17:833][136]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.20.17:852][136]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.20.17
+[2023.07.18-21.20.17:852][136]LogWorld: Bringing up level for play took: 0.019356
+[2023.07.18-21.20.17:854][136]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.07.18-21.20.17:855][136]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.20.17:855][136]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.20.17:855][136]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.20.17:870][136]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.20.17:870][136]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.20.17:870][136]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.20.17:870][136]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.20.17:873][136]PIE: Server logged in
+[2023.07.18-21.20.17:875][136]PIE: Play in editor total start time 0.186 seconds.
+[2023.07.18-21.20.17:956][136]LogViewport: Scene viewport resized to 3898x2195, mode Windowed.
+[2023.07.18-21.20.18:178][145]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.20.19:123][215]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.20.19:219][222]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.20.19:365][233]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.20.19:511][244]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.20.19:643][254]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.20.19:788][265]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.20.19:945][277]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.20.20:252][300]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.20.20:424][313]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.20.20:596][326]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.20.20:760][338]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.20.21:020][358]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.20.21:223][373]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.20.21:463][391]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.20.21:655][405]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.20.21:839][419]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.20.22:483][468]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.20.22:672][482]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.20.22:852][495]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.20.23:005][506]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.20.23:195][520]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.20.23:424][537]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.20.23:608][550]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.20.23:785][563]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.20.25:913][718]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.20.27:845][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.20.27:845][861]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.20.27:846][861]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.20.27:850][861]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.20.27:850][861]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.20.27:853][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.20.27:855][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.20.27:864][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.20.27:921][861]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.20.27:922][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.07.18-21.20.27:923][861]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.07.18-21.20.27:936][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.07.18-21.20.27:960][862]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.07.18-21.21.11:457][461]BlueprintLog: New page: Compile BP_Item_Actor
+[2023.07.18-21.21.11:543][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.07.18-21.21.12:026][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.21.12:074][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Blueprints/BP_Item_Actor" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset" SILENT=true
+[2023.07.18-21.21.12:100][494]LogSavePackage: Moving output files for package: /Game/Custom/Blueprints/BP_Item_Actor
+[2023.07.18-21.21.12:100][494]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/BP_Item_ActorB3CE79DF4D721F2A6D2459B455A6DD71.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset'
+[2023.07.18-21.21.12:104][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.53 sec)
+[2023.07.18-21.21.12:114][494]AssetCheck: New page: Asset Save: BP_Item_Actor
+[2023.07.18-21.21.12:114][494]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor
+[2023.07.18-21.21.13:175][573]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.21.13:181][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.21.13:181][573]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:21:13 PM)
+[2023.07.18-21.21.13:181][573]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.21.13:219][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038933s)
+[2023.07.18-21.21.13:219][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.038959s)
+[2023.07.18-21.21.13:219][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.21.13:220][573]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.21.13:220][573]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2023.07.18-21.21.13:270][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.07.18-21.21.13:276][573]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.07.18-21.21.13:276][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.21.13:276][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.21.13:276][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.21.13:276][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.21.13:276][573]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.21.13:276][573]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.21.13:276][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.21.13:276][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.21.13:276][573]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.21.13:276][573]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.21.13:276][573]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.21.13:278][573]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.21.13:289][573]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.21.13:289][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.21.13:289][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.21.13:289][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.21.13:289][573]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.07.18-21.21.13:289][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.07.18-21.21.13:290][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.07.18-21.21.13:290][573]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.07.18-21.21.13:290][573]LogInit: FAudioDevice initialized.
+[2023.07.18-21.21.13:290][573]LogAudio: Display: Audio Device (ID: 14) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.21.13:337][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.21.13:338][573]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.21.13:357][573]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.21.13
+[2023.07.18-21.21.13:357][573]LogWorld: Bringing up level for play took: 0.019275
+[2023.07.18-21.21.13:359][573]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.07.18-21.21.13:359][573]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.21.13:359][573]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.21.13:359][573]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.21.13:374][573]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.21.13:374][573]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.21.13:374][573]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.21.13:374][573]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.21.13:377][573]PIE: Server logged in
+[2023.07.18-21.21.13:378][573]PIE: Play in editor total start time 0.198 seconds.
+[2023.07.18-21.21.13:460][573]LogViewport: Scene viewport resized to 3901x2195, mode Windowed.
+[2023.07.18-21.21.13:682][582]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.21.16:389][783]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.21.16:543][794]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.21.16:693][805]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.21.16:815][814]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.21.16:962][825]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.21.17:100][835]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.21.17:236][845]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.21.17:398][857]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.21.17:541][868]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.21.17:686][879]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.21.17:848][891]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.21.18:008][903]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.21.18:168][915]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.21.22:363][218]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.21.27:405][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.21.27:405][589]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.21.27:406][589]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.21.27:409][589]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.21.27:409][589]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.21.27:412][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.21.27:414][589]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.21.27:422][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.21.27:479][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.21.27:480][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.07.18-21.21.27:480][589]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.07.18-21.21.27:492][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.07.18-21.21.27:516][590]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.07.18-21.22.08:660][283]BlueprintLog: New page: Compile BP_Item_Actor
+[2023.07.18-21.22.08:748][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.07.18-21.22.09:132][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.22.09:178][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Blueprints/BP_Item_Actor" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset" SILENT=true
+[2023.07.18-21.22.09:205][306]LogSavePackage: Moving output files for package: /Game/Custom/Blueprints/BP_Item_Actor
+[2023.07.18-21.22.09:205][306]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/BP_Item_Actor8F743B124690626DBC19DC8CEFD0356E.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset'
+[2023.07.18-21.22.09:209][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.60 sec)
+[2023.07.18-21.22.09:221][306]AssetCheck: New page: Asset Save: BP_Item_Actor
+[2023.07.18-21.22.09:221][306]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor
+[2023.07.18-21.22.40:962][335]BlueprintLog: New page: Compile BP_Item_Actor
+[2023.07.18-21.22.41:045][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.07.18-21.22.41:498][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.22.41:533][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Custom/Blueprints/BP_Item_Actor" FILE="../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset" SILENT=true
+[2023.07.18-21.22.41:559][361]LogSavePackage: Moving output files for package: /Game/Custom/Blueprints/BP_Item_Actor
+[2023.07.18-21.22.41:559][361]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/BP_Item_ActorE0AC54C24BA4F57FFCF0399D0978D79F.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/Custom/Blueprints/BP_Item_Actor.uasset'
+[2023.07.18-21.22.41:563][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2.67 sec)
+[2023.07.18-21.22.41:571][361]AssetCheck: New page: Asset Save: BP_Item_Actor
+[2023.07.18-21.22.41:571][361]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Custom/Blueprints/BP_Item_Actor.BP_Item_Actor
+[2023.07.18-21.22.42:196][409]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.22.42:201][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.22.42:201][409]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:22:42 PM)
+[2023.07.18-21.22.42:201][409]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.22.42:245][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043325s)
+[2023.07.18-21.22.42:245][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.043350s)
+[2023.07.18-21.22.42:245][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.22.42:245][409]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.22.42:245][409]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2023.07.18-21.22.42:295][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.07.18-21.22.42:301][409]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.07.18-21.22.42:301][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.22.42:301][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.22.42:301][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.22.42:301][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.22.42:301][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.22.42:301][409]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.22.42:301][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.22.42:301][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.22.42:301][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.22.42:301][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.22.42:301][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.22.42:303][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.22.42:313][409]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.22.42:314][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.22.42:314][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.22.42:314][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.22.42:314][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.07.18-21.22.42:314][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.07.18-21.22.42:315][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.07.18-21.22.42:315][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.07.18-21.22.42:315][409]LogInit: FAudioDevice initialized.
+[2023.07.18-21.22.42:315][409]LogAudio: Display: Audio Device (ID: 15) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.22.42:361][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.22.42:361][409]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.22.42:381][409]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.22.42
+[2023.07.18-21.22.42:381][409]LogWorld: Bringing up level for play took: 0.019548
+[2023.07.18-21.22.42:383][409]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.07.18-21.22.42:383][409]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.22.42:383][409]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.22.42:383][409]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.22.42:398][409]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.22.42:398][409]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.22.42:398][409]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.22.42:398][409]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.22.42:401][409]PIE: Server logged in
+[2023.07.18-21.22.42:403][409]PIE: Play in editor total start time 0.202 seconds.
+[2023.07.18-21.22.42:486][409]LogViewport: Scene viewport resized to 3904x2195, mode Windowed.
+[2023.07.18-21.22.42:703][417]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.22.51:825][103]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.22.51:987][115]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.22.52:134][126]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.23.01:115][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.23.01:115][767]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.23.01:116][767]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.23.01:119][767]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.23.01:119][767]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.23.01:122][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.23.01:124][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.23.01:133][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.23.01:193][767]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.23.01:194][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.07.18-21.23.01:195][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.07.18-21.23.01:207][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.07.18-21.23.01:230][768]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.07.18-21.23.19:768][ 93]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.23.19:774][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.23.19:774][ 93]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:23:19 PM)
+[2023.07.18-21.23.19:774][ 93]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.23.19:811][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038125s)
+[2023.07.18-21.23.19:811][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.038148s)
+[2023.07.18-21.23.19:811][ 93]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.23.19:812][ 93]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.23.19:812][ 93]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2023.07.18-21.23.19:860][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.07.18-21.23.19:863][ 93]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.07.18-21.23.19:863][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.23.19:863][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.23.19:863][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.23.19:863][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.23.19:863][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.23.19:863][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.23.19:863][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.23.19:863][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.23.19:864][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.23.19:864][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.23.19:864][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.23.19:865][ 93]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.23.19:877][ 93]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.23.19:877][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.23.19:877][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.23.19:877][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.23.19:877][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.07.18-21.23.19:877][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.07.18-21.23.19:878][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.07.18-21.23.19:878][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.07.18-21.23.19:878][ 93]LogInit: FAudioDevice initialized.
+[2023.07.18-21.23.19:878][ 93]LogAudio: Display: Audio Device (ID: 16) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.23.19:932][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.23.19:933][ 93]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.23.19:952][ 93]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.23.19
+[2023.07.18-21.23.19:952][ 93]LogWorld: Bringing up level for play took: 0.019192
+[2023.07.18-21.23.19:954][ 93]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.07.18-21.23.19:954][ 93]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.23.19:954][ 93]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.23.19:954][ 93]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.23.19:968][ 93]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.23.19:968][ 93]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.23.19:968][ 93]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.23.19:970][ 93]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.23.19:976][ 93]PIE: Server logged in
+[2023.07.18-21.23.19:982][ 93]PIE: Play in editor total start time 0.208 seconds.
+[2023.07.18-21.23.20:067][ 93]LogViewport: Scene viewport resized to 3907x2195, mode Windowed.
+[2023.07.18-21.23.20:284][101]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.23.22:105][199]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.23.22:253][207]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.23.22:902][242]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.23.23:040][249]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.23.23:161][257]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.23.23:400][271]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.23.23:524][278]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.23.23:661][286]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.23.23:792][293]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.23.23:920][300]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.23.24:047][306]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.23.24:151][311]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.23.24:287][318]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.23.24:404][325]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.23.24:526][332]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.23.24:648][338]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.23.24:785][345]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.23.24:903][351]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.23.25:034][358]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.23.25:132][363]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.23.25:255][370]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.23.25:397][377]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.23.25:517][383]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.23.25:649][390]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.23.25:787][398]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.23.25:920][405]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.23.26:053][412]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.23.26:196][419]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.23.26:333][426]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.23.26:464][433]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.23.26:601][442]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.23.26:746][450]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.23.26:898][458]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.23.27:038][466]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.23.27:271][478]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.23.27:427][487]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.23.27:555][494]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.23.27:690][501]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.23.28:644][554]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.23.28:774][561]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.23.28:928][569]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.23.29:062][576]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.23.30:268][639]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.23.38:133][ 58]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.23.39:409][127]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.23.39:584][136]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.23.39:735][144]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.23.39:885][150]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.23.40:038][157]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.23.41:260][224]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.23.41:400][231]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.23.41:600][243]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.23.42:813][310]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.24.05:505][569]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.24.05:710][580]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.24.05:932][592]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.24.06:076][601]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.24.06:193][608]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.24.06:309][614]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.24.06:457][622]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.24.06:643][633]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.24.06:843][644]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.24.07:088][657]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.24.07:313][670]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.24.07:493][680]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.24.07:984][707]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.24.08:377][728]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.24.08:846][752]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.24.09:024][762]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.24.09:186][770]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.24.09:348][778]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.24.10:665][843]LogBlueprintUserMessages: [BP_TopDownController_C_0] 3
+[2023.07.18-21.24.10:831][853]LogBlueprintUserMessages: [BP_TopDownController_C_0] 4
+[2023.07.18-21.24.10:968][861]LogBlueprintUserMessages: [BP_TopDownController_C_0] 5
+[2023.07.18-21.24.11:125][869]LogBlueprintUserMessages: [BP_TopDownController_C_0] 6
+[2023.07.18-21.24.11:407][884]LogBlueprintUserMessages: [BP_TopDownController_C_0] 7
+[2023.07.18-21.24.11:581][893]LogBlueprintUserMessages: [BP_TopDownController_C_0] 8
+[2023.07.18-21.24.11:736][901]LogBlueprintUserMessages: [BP_TopDownController_C_0] 9
+[2023.07.18-21.24.11:928][911]LogBlueprintUserMessages: [BP_TopDownController_C_0] 10
+[2023.07.18-21.24.12:322][932]LogBlueprintUserMessages: [BP_TopDownController_C_0] 11
+[2023.07.18-21.24.12:522][942]LogBlueprintUserMessages: [BP_TopDownController_C_0] 12
+[2023.07.18-21.24.12:752][954]LogBlueprintUserMessages: [BP_TopDownController_C_0] 13
+[2023.07.18-21.24.13:371][986]LogBlueprintUserMessages: [BP_TopDownController_C_0] 14
+[2023.07.18-21.24.14:040][ 22]LogBlueprintUserMessages: [BP_TopDownController_C_0] 15
+[2023.07.18-21.24.14:232][ 33]LogBlueprintUserMessages: [BP_TopDownController_C_0] 0
+[2023.07.18-21.24.14:411][ 43]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.24.14:606][ 53]LogBlueprintUserMessages: [BP_TopDownController_C_0] 2
+[2023.07.18-21.24.16:144][135]LogBlueprintUserMessages: [BP_TopDownController_C_0] 1
+[2023.07.18-21.24.36:438][268]LogViewport: Scene viewport resized to 3840x1989, mode Windowed.
+[2023.07.18-21.24.38:004][351]LogViewport: Scene viewport resized to 3907x2195, mode Windowed.
+[2023.07.18-21.24.39:872][453]LogViewport: Scene viewport resized to 3840x1989, mode Windowed.
+[2023.07.18-21.25.57:814][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.25.57:814][813]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.25.57:815][813]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.25.57:822][813]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.25.57:822][813]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.25.57:825][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.25.57:827][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.25.57:836][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.25.57:892][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.07.18-21.25.57:894][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.07.18-21.25.57:906][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.07.18-21.25.57:938][814]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.07.18-21.26.22:953][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.07.18-21.26.23:055][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_Auto2
+[2023.07.18-21.26.23:055][453]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/AlchemistsHouse_1_Auto1_Auto2FE4EB91E46E6B888E062A3BAB78193B9.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/Autosaves/Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_Auto2.umap'
+[2023.07.18-21.26.23:064][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1' took 0.160
+[2023.07.18-21.26.23:064][453]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.160
+[2023.07.18-21.27.41:767][738]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.07.18-21.27.41:771][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.18-21.27.41:771][738]PIE: New page: PIE session: AlchemistsHouse_1_Auto1 (Jul 18, 2023, 1:27:41 PM)
+[2023.07.18-21.27.41:771][738]LogPlayLevel: Creating play world package: /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.27.41:807][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036029s)
+[2023.07.18-21.27.41:807][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 to /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 (0.036053s)
+[2023.07.18-21.27.41:807][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.18-21.27.41:808][738]LogAIModule: Creating AISystem for world AlchemistsHouse_1_Auto1
+[2023.07.18-21.27.41:808][738]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2023.07.18-21.27.41:865][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.07.18-21.27.41:868][738]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.07.18-21.27.41:868][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.18-21.27.41:868][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.18-21.27.41:868][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.18-21.27.41:868][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.18-21.27.41:868][738]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.18-21.27.41:868][738]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.18-21.27.41:868][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.18-21.27.41:868][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.18-21.27.41:868][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.18-21.27.41:868][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.18-21.27.41:868][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.18-21.27.41:870][738]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.18-21.27.41:881][738]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer BlackShark V2 Pro)
+[2023.07.18-21.27.41:881][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.18-21.27.41:881][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.18-21.27.41:881][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.18-21.27.41:881][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.07.18-21.27.41:881][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.07.18-21.27.41:882][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.07.18-21.27.41:882][738]LogInit: FAudioDevice initialized.
+[2023.07.18-21.27.41:883][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.07.18-21.27.41:883][738]LogAudio: Display: Audio Device (ID: 17) registered with world 'AlchemistsHouse_1_Auto1'.
+[2023.07.18-21.27.41:922][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.27.41:922][738]LogLoad: Game class is 'BP_GameMode_C'
+[2023.07.18-21.27.41:943][738]LogWorld: Bringing World /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1 up for play (max tick rate 0) at 2023.07.18-17.27.41
+[2023.07.18-21.27.41:944][738]LogWorld: Bringing up level for play took: 0.021457
+[2023.07.18-21.27.41:945][738]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.07.18-21.27.41:946][738]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.27.41:946][738]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.07.18-21.27.41:946][738]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.27.41:962][738]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(917)]!
+[2023.07.18-21.27.41:962][738]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.18-21.27.41:962][738]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.07.18-21.27.41:962][738]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.07.18-21.27.41:970][738]PIE: Server logged in
+[2023.07.18-21.27.41:976][738]PIE: Play in editor total start time 0.205 seconds.
+[2023.07.18-21.27.42:080][738]LogViewport: Scene viewport resized to 3850x2016, mode Windowed.
+[2023.07.18-21.27.42:298][745]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.28.01:905][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.18-21.28.01:905][836]LogWorld: BeginTearingDown for /Game/AlchemistsHouse/Maps/UEDPIE_0_AlchemistsHouse_1_Auto1
+[2023.07.18-21.28.01:905][836]LogSlate: Window 'Magic Item Creator Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 5)' being destroyed
+[2023.07.18-21.28.01:911][836]LogBlueprintUserMessages: [BP_UI_CCA_C_0] 
+[2023.07.18-21.28.01:911][836]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=true
+[2023.07.18-21.28.01:914][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.28.01:916][836]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.18-21.28.01:925][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.18-21.28.01:979][836]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.18-21.28.01:979][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.07.18-21.28.01:980][836]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.07.18-21.28.01:995][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.07.18-21.28.02:027][837]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.07.18-21.28.35:742][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.07.18-21.28.35:747][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.28.35:848][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.07.18-21.28.35:952][ 51]LogSavePackage: Moving output files for package: /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1
+[2023.07.18-21.28.35:953][ 51]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/AlchemistsHouse_1_Auto14F0A6BBD472EEF17F6760697BCF2BEFA.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.umap'
+[2023.07.18-21.28.35:965][ 51]LogFileHelpers: No new changes to save!
+[2023.07.18-21.28.35:965][ 51]LogFileHelpers: Saving map 'AlchemistsHouse_1_Auto1' took 0.167
+[2023.07.18-21.28.35:976][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 2.90 sec)
+[2023.07.18-21.28.35:985][ 51]AssetCheck: New page: Asset Save: AlchemistsHouse_1_Auto1
+[2023.07.18-21.28.35:985][ 51]LogContentValidation: Display: Validating /Script/Engine.World /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1
+[2023.07.18-21.28.40:173][320]LogEditorBuildUtils: Warning: Cannot connect to source control; automated build aborted.
+[2023.07.18-21.28.40:173][320]BuildAndSubmitErrors: New page: Build and Submit
+[2023.07.18-21.28.40:173][320]BuildAndSubmitErrors: Error: Cannot connect to source control; automated build aborted.
+[2023.07.18-21.28.40:180][320]LogSlate: Window 'Build and Submit' being destroyed
+[2023.07.18-21.28.50:429][215]MapCheck: New page: Map Check
+[2023.07.18-21.28.50:451][215]Cmd: MAP REBUILD ALLVISIBLE
+[2023.07.18-21.28.50:451][215]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.07.18-21.28.50:586][215]LogWorld: UWorld::CleanupWorld for AlchemistsHouse_1_Auto1, bSessionEnded=true, bCleanupResources=false
+[2023.07.18-21.28.50:610][215]LogShaderCompilers: Display: ================================================
+[2023.07.18-21.28.50:611][215]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.18-21.28.50:611][215]LogShaderCompilers: Display: Total job queries 627, among them cache hits 196 (31.26%)
+[2023.07.18-21.28.50:611][215]LogShaderCompilers: Display: Tracking 431 distinct input hashes that result in 93 distinct outputs (21.58%)
+[2023.07.18-21.28.50:611][215]LogShaderCompilers: Display: RAM used: 0.98 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.03%
+[2023.07.18-21.28.50:611][215]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.18-21.28.50:611][215]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.18-21.28.50:611][215]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.18-21.28.50:611][215]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.18-21.28.50:611][215]LogShaderCompilers: Display: ================================================
+[2023.07.18-21.28.50:617][215]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.07.18-21.28.50:678][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.07.18-21.28.51:501][215]LogLevel: Display: Export Material TexCoord Scales took 0.218 seconds.
+[2023.07.18-21.28.51:510][215]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2023.07.18-21.28.51:565][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.07.18-21.28.51:584][215]LightingResults: New page: Lighting Build - Jul 18, 2023, 1:28:51 PM
+[2023.07.18-21.28.51:612][215]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.07.18-21.28.51:650][215]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.07.18-21.28.51:657][215]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.07.18-21.28.52:167][215]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.07.18-21.28.52:167][215]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26440
+[2023.07.18-21.28.54:946][215]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2023.07.18-21.28.54:947][215]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.07.18-21.28.54:947][215]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.07.18-21.28.54:947][215]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.07.18-21.28.54:947][215]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.07.18-21.28.54:947][215]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.07.18-21.28.55:044][215]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.07.18-21.28.55:044][215]MapCheck: New page: AlchemistsHouse_1_Auto1 - Jul 18, 2023, 1:28:55 PM
+[2023.07.18-21.28.55:050][215]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.021ms to complete.
+[2023.07.18-21.28.55:050][215]LogEditorBuildUtils: Build time 0:04
+[2023.07.18-21.28.55:482][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.07.18-21.29.01:050][419]Job is a success!
+[2023.07.18-21.29.01:276][421]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2023.07.18-21.29.01:276][421]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2023.07.18-21.29.01:276][421]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2023.07.18-21.29.01:276][421]LogVolumetricLightmapImport:      Bricks at depth
+[2023.07.18-21.29.01:276][421]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2023.07.18-21.29.01:276][421]LogVolumetricLightmapImport:          1: 66.7% covering 3.1% of volume
+[2023.07.18-21.29.01:276][421]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2023.07.18-21.29.01:276][421]LogVolumetricLightmapImport:      Bricks in each level
+[2023.07.18-21.29.01:276][421]LogVolumetricLightmapImport:          AlchemistsHouse_1_Auto1 			 3 bricks 	 100.0% (Persistent Level)
+[2023.07.18-21.29.01:657][421]LogTexture: Display: Building textures: /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_BuiltData.AlchemistsHouse_1_Auto1_BuiltData:ShadowMapTexture2D_0 (BGRA8, 1024x1024 x1x1x1) (Required Memory Estimate: 32.062492 MB), EncodeSpeed: Fast
+[2023.07.18-21.29.01:672][421]Lightmass on PC-36BC0BD015: 5.71 sec total, 607 ms importing, 97 ms setup, 739 ms photons, 4.26 sec processing, 0 us extra exporting [894/894 mappings]. Threads: 2:12 min total, 1:26 min processing.
+[2023.07.18-21.29.01:730][421]LogStaticLightingSystem: AlchemistsHouse_1_Auto1_BuiltData storing lightmap data for 894 meshes in 14 LightmapResourceClusters (63.9 Meshes per cluster).
+[2023.07.18-21.29.01:870][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.07.18-21.29.01:900][421]LogStaticLightingSystem: Illumination: 10.2 sec (38 ms encoding lightmaps, 105 ms encoding shadowmaps)
+[2023.07.18-21.29.01:900][421]LogStaticLightingSystem: Lightmap texture memory:  14.0 MB (14.0 MB streaming, 0.0 MB non-streaming), 14 textures
+[2023.07.18-21.29.01:900][421]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2023.07.18-21.29.02:958][421]DumpUnbuiltLightIteractions
+[2023.07.18-21.29.02:958][421]Lights with unbuilt interactions: 0
+[2023.07.18-21.29.02:958][421]
+[2023.07.18-21.29.02:958][421]Primitives with unbuilt interactions: 0
+[2023.07.18-21.29.07:927][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 776acd9dbf201c4deb63ae2dc4e6b3c3ea867f2e and existing hash 22adae10389e25b0ce51d3550f90a8596423239b for MaterialShaderMap/a6894163e1a3c9df48de9ce70de933d614b89ac6 from '/Game/AlchemistsHouse/Assets/Materials/Window_3_glass.Window_3_glass [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:931][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash a3e1bf823d5919379a748f67be88e76213697e8c and existing hash ce065b9d0ffae83afee8f872b658a2b81ad0e949 for MaterialShaderMap/c224bc87994d675e31df765fe559f55c5d8c9abb from '/Game/AlchemistsHouse/Assets/Materials/Windows.Windows [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:933][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 69f219449d0f05af066033518cab79766410451b and existing hash dd41d27b8fd797c1bbb3b1dae3f1153bb9fe8f14 for MaterialShaderMap/c9d333fc2f7bc4a7f5865e58141e75ee0670aec3 from '/Game/AlchemistsHouse/Assets/Materials/Wall_round_4.Wall_round_4 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:934][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 5ca78cacd842f11f440b2db341a49874c4ed5d6d and existing hash 4e7fa1c13c3c86cb8ac385deeec9479cdb9f8651 for MaterialShaderMap/b07947ca0cc890da853dfa964e77fdc321bf1e88 from '/Game/AlchemistsHouse/Assets/Materials/Wall_round_3.Wall_round_3 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:942][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 3dd61b063464fed5ce5cc2457c302b8f7bb108a2 and existing hash 75c82e491335c220849fd0606b070d96b1225de9 for MaterialShaderMap/4d9479be4ec9e7654c50b5489553d57412f668ff from '/Game/AlchemistsHouse/Assets/Materials/Wall_1_1.Wall_1_1 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:944][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash b8d4a1cc7d2a99320e1c1f92e734922ac12f401b and existing hash 75f3cdaa139eaaa6b99dc36bf8f92eb8a5cb3dca for MaterialShaderMap/846fe97cc16027c76073d3bf519bc09fdf2b3860 from '/Game/AlchemistsHouse/Assets/Materials/Vases.Vases [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:946][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 18cf96342ff90402a343221694a27748018931ca and existing hash f32c38eab612441cbeb41e547b9e5356a562ca27 for MaterialShaderMap/377a26762af3a1ae11997fe090a51839ce0ccf57 from '/Game/AlchemistsHouse/Assets/Materials/Tablecloth.Tablecloth [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:950][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 4e7c40834d2c2b48edd9d8d6cb98648c9656a82f and existing hash ad5f5a857acfe12e18665e8e26f34ea6262fa7c4 for MaterialShaderMap/162d6db0c3e7e170f9b7da11a1d8e48b9e27051d from '/Game/AlchemistsHouse/Assets/Materials/Table.Table [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:951][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash de81727b7d49c9e0e1e58f35b92fc0f4254af0e1 and existing hash 4fe62f59e44daf8db18db4172800f52038f6611a for MaterialShaderMap/15dac5f86f91ef457c6d784c9e41322fb85054dc from '/Game/AlchemistsHouse/Assets/Materials/Stand.Stand [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:952][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 9c20df359cfcc25362bf91df75a202396bf1c43f and existing hash 8804c16c02fbd67668168272ec393ceabe911a84 for MaterialShaderMap/f935a97de4eb21f2e7e10f87a9edab76057934ea from '/Game/AlchemistsHouse/Assets/Materials/Stairs_round.Stairs_round [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:954][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 6f9222e5932dc631b79c77eb5e1d5e96138c353f and existing hash c91ef45d795836a54322843be0823de1c42501ac for MaterialShaderMap/b339d07b3bc94b9645d5743e66ecf26703d4392a from '/Game/AlchemistsHouse/Assets/Materials/Shelf.Shelf [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:956][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash c59d6da0f24c5ab31d9c2d47dc0f599f2ad623bc and existing hash 038da7bda01bba5669068f8cc75915ccc26bada9 for MaterialShaderMap/72be9247a2375a66a9d67d4e2a3789523b6391cb from '/Game/AlchemistsHouse/Assets/Materials/Scrolls.Scrolls [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:957][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash d09c06e6a4e14a6debf66b13f6698c98cd1837cc and existing hash b6951985f95b879808c1f14ab458b924bd3d9664 for MaterialShaderMap/e869c5dded5360e17455f5ae0d7b111f85c39803 from '/Game/AlchemistsHouse/Assets/Materials/Stairs.Stairs [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:959][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 137763ec0bc3d7b32dd6f1c7fc7820f4aac08072 and existing hash 86af2e3fb637fb9a046bde937bfa1a89f7f3ffa3 for MaterialShaderMap/1ccc8030ab41674bafeeb1735722b8fce9f1d6a5 from '/Game/AlchemistsHouse/Assets/Textures/Pumpkin_Texture_Mat.Pumpkin_Texture_Mat [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:960][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash b0157a1c6f0adb128d097384699e69a6b64d22b1 and existing hash 18806208cd410eb65d60c2b3e98ec730b08b09ca for MaterialShaderMap/4b95fa7edf454a316cab7373cfcde24e04280d7c from '/Game/AlchemistsHouse/Assets/Materials/Potions.Potions [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:962][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash eab37b4c034bddc466b1a06bf789e1be54c79b01 and existing hash 3e2adc0bffd8d152985acb8be3ed6508e2b9f792 for MaterialShaderMap/5207d25429201f21fb26e4a6a21b4e925576f054 from '/Game/AlchemistsHouse/Assets/Materials/Plate_1.Plate_1 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:966][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 4fb9ab6fefebbfb2dddd3d70f1f90c6185261542 and existing hash 8f63084efe32288d5600f94320a3f89b6ffb0000 for MaterialShaderMap/e53bc62277e03ee26acdde20791f7e844c148c4d from '/Game/AlchemistsHouse/Assets/Materials/Plant.Plant [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:967][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash a6aca03b821d41955250467020dc70299f9cd5fc and existing hash 44bad438b0ba8fcad016eace18786568c0813b5d for MaterialShaderMap/84654e3e875f18e8c6c3fbb0a34d239cde1235e3 from '/Game/AlchemistsHouse/Assets/Materials/Pillars.Pillars [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:968][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash bf46246fc02c9c4b393335d0af87eec344a6ab08 and existing hash c2c3c86d75991f57f5dab01c5b6faece0ba0727a for MaterialShaderMap/82f912f01bbf00f78b8970168f9a49429e4870fa from '/Game/AlchemistsHouse/Assets/Materials/Wall_1_0.Wall_1_0 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:969][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 1605c0abe26a91f863328cb976869936293bb0ed and existing hash 1878d5969dc0d17674d0c87ebc4e588502c132e0 for MaterialShaderMap/222b106611944e3769992dd1ede6540d029ad333 from '/Game/AlchemistsHouse/Assets/Materials/Pie.Pie [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:971][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 87e793b2de303688b27f86bef1cc997e7bf97999 and existing hash 5f7eb43a69ba463ae66076d7c4660c50643e4d17 for MaterialShaderMap/c66935c81ac0e1e4e4f4e80126b00bd32ade1621 from '/Game/AlchemistsHouse/Assets/Materials/Lighter.Lighter [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:973][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 01d8025e28a574d8e00f9f0a7892b9dddf86bfab and existing hash f55186bac33da3a239e70c8988b8a6fc591b4372 for MaterialShaderMap/da49d217b09e6b55c252b5250d40a4c0b5b279e5 from '/Game/AlchemistsHouse/Assets/Materials/Ham.Ham [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:974][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash d65ce9c8c18fe186ad35874eeecfdefa2bc6301e and existing hash c935c335a35004704ea67ccc76acab771d18d54b for MaterialShaderMap/d89b2fdb7ec0cda763d5cbdf9c77d606d558da27 from '/Game/AlchemistsHouse/Assets/Materials/Lab_stuff_2.Lab_stuff_2 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:976][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash b03af9686d694383ba409ddda8e489ff78d62604 and existing hash 7ac8f92cd3d317768690a7a89d12c0ec93f97f43 for MaterialShaderMap/6865fa877cee720c0fc94ec37021d572552f9247 from '/Game/AlchemistsHouse/Assets/Materials/Garlic.Garlic [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:977][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 0d4f5b6ea2d1cc5d0687dea1752e033b9231ef5b and existing hash 42bd345aa5e9562ad821026c17620275e970b08c for MaterialShaderMap/8c7c31588179f72d51aa63bb17dd71b6b7ea4534 from '/Game/AlchemistsHouse/Assets/Materials/Floor_parquet.Floor_parquet [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:981][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 044a25bfd1a692fa59a3721ee202b4625a2dbd7b and existing hash 861f12ab5d4cc54f3436ef85bf98c0437e778dbf for MaterialShaderMap/4c263ab9d10ac020ab83bbba103a492494bbc8ac from '/Game/AlchemistsHouse/Assets/Textures/Flame_Mat.Flame_Mat [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:983][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash dea2d3308b351d6da7f35062d143a5614c895f05 and existing hash 7bc0f156c299f19cf595ee2610c0f92fbfbbee44 for MaterialShaderMap/ab5471ad8b396a9c2fa9d5555acfe835f0216bc0 from '/Game/AlchemistsHouse/Assets/Materials/Flag.Flag [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:984][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 5a2b33eda42e4d6aa4e7f6c4928e53ba3bb44cdd and existing hash 981978665f3b1e1a9209ae8d602f1f78d2d32798 for MaterialShaderMap/9c36366dd1b352e63ed33ecb8b0115ca992b061b from '/Game/AlchemistsHouse/Assets/Materials/Fireplace.Fireplace [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:989][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 6b9588238520c937ba33e80cb721383d884834da and existing hash 9d9c73adbb59f63f5d08d251ce8c72d9b35916ea for MaterialShaderMap/bcda25e468070d7929e98669580f6ccf161a3083 from '/Game/AlchemistsHouse/Assets/Materials/Chest.Chest [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:991][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 32c4a902fcf0c66ec32cd7fd085df11460c4a3db and existing hash 34cc542bec1a8782a6da32f58a7b5bc2928c81df for MaterialShaderMap/4a9249e366de5fab7593f6933d48db86ed00bb36 from '/Game/AlchemistsHouse/Assets/Materials/Celling_2.Celling_2 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:994][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash b356838f015d582143fbfe0ed97630f3f8faed0e and existing hash 834e74fd0db465f68b8d596dcc662c4f990a605a for MaterialShaderMap/aad9aead2031f0027e214b7e7dd0ad41c8635918 from '/Game/AlchemistsHouse/Assets/Materials/Carpet_long.Carpet_long [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.07:997][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 1607b1ba2e0c85b6e63f8c249753803deb5984f9 and existing hash 3d6ceec127b63968ecc3ddaaa7f747aaaeb9e237 for MaterialShaderMap/cff6b97b2e3bb73e81b47573bfb70f5de34e1c6f from '/Game/AlchemistsHouse/Assets/Materials/Carpet_2.Carpet_2 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.08:000][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash edba004fe678aa6ec2b5ea82be79bf0dea6d0f82 and existing hash b0eb1ca7ec0288a018ee7d415446786346121bcb for MaterialShaderMap/9c185aa58b19a898035df1c22b244990c342a89b from '/Game/AlchemistsHouse/Assets/Materials/Candles_candlesticks.Candles_candlesticks [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.08:004][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 52e0d4ddec8fbe70262b709d1bebab5856d705ae and existing hash 7b7ab773d800b57d64852c55a6a1148665549da3 for MaterialShaderMap/53542c7cea3c1f8a0b30d9969a6ddbe2c011b7e6 from '/Game/AlchemistsHouse/Assets/Materials/bookcase.Bookcase [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.08:007][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 889f48a7656854e4a6b3602a860f7903c9f419a0 and existing hash 4dae2735654f95e9f0e3283005dd72fbe68b9e00 for MaterialShaderMap/3443724a65312634b0f84d10bbb9336cb33107a3 from '/Game/AlchemistsHouse/Assets/Materials/Book_6.Book_6 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.08:008][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 65e6508013004b4d7e9adea52c66cf4f499165fe and existing hash 5986043c601525cf18359ab2e4132a53f998c8c2 for MaterialShaderMap/1fc17129ec541d8e2048754d39c8963a9098ef57 from '/Game/AlchemistsHouse/Assets/Materials/Book_1.Book_1 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.08:010][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 965c64cec6d402f859be67b1fcb491a0da0363cc and existing hash ccf7c09fd0482f829e26a0c49a97d2ea5b8a3fe5 for MaterialShaderMap/7b57e0f66cce397bb904e6e35c328300525c6ad1 from '/Game/AlchemistsHouse/Assets/Materials/Book_5.Book_5 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.08:011][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 6c55a26c433777dbcefa8b58f7dd43bf0865c1bd and existing hash ae125ea2e818ae3473c832ba5598ccf3d6825bc5 for MaterialShaderMap/66e50b1cd3b903ca239a59bf2baa416d885a40d2 from '/Game/AlchemistsHouse/Assets/Materials/Book_4.Book_4 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.08:013][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 29c247c19bb9556f18c9596e099febc0a5d9d663 and existing hash d9be0b30ce64cd9b3ca12237336ea9cf01de5460 for MaterialShaderMap/27f9c84bef6505d9f91e11df9c24ad3b840ffada from '/Game/AlchemistsHouse/Assets/Materials/Book_2.Book_2 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.08:014][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 9dd111587196204745a50bef20780f8323cc06d5 and existing hash dd03632eba99d066f0aa072a6aae2268e87d4587 for MaterialShaderMap/c2f8e3a27e1ef6bd58c27850803ef862bf17420f from '/Game/AlchemistsHouse/Assets/Materials/Book_3.Book_3 [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.08:026][421]LogDerivedDataCache: Display: C:/Users/Andres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 7e1d9749fd4d3df8ed80a75847d3202f63c446e7 and existing hash 5e14e6f186e392ba65a641a8fe4cee7b2ff80a06 for MaterialShaderMap/563c49f793ae2b407236772bcba1a923f2121381 from '/Game/AlchemistsHouse/Assets/Materials/Ambry.Ambry [PCD3D_SM5, SM5, Num]'
+[2023.07.18-21.29.08:179][422]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.07.18-21.29.08:179][422]MapCheck: New page: AlchemistsHouse_1_Auto1 - Jul 18, 2023, 1:29:08 PM
+[2023.07.18-21.29.08:184][422]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5.183ms to complete.
+[2023.07.18-21.38.34:051][107]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 178898
+[2023.07.18-21.38.34:051][107]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2023.07.18-21.38.42:906][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.07.18-21.38.43:040][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_Auto3
+[2023.07.18-21.38.43:041][683]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/AlchemistsHouse_1_Auto1_Auto31A512F754E4539AE5DCBB18AE894E75C.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/Autosaves/Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_Auto3.umap'
+[2023.07.18-21.38.43:050][683]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1' took 0.201
+[2023.07.18-21.38.43:050][683]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.201
+[2023.07.18-21.38.55:192][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.07.18-21.38.59:390][480]LogSlate: Window 'Save Content' being destroyed
+[2023.07.18-21.38.59:396][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.38.59:505][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.07.18-21.38.59:637][480]LogSavePackage: Moving output files for package: /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1
+[2023.07.18-21.38.59:638][480]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/AlchemistsHouse_1_Auto1B94B2F5F4FDE5F3CB5F19FB08E7F4E34.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.umap'
+[2023.07.18-21.38.59:648][480]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_BuiltData
+[2023.07.18-21.38.59:648][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.18-21.38.59:699][480]LogSavePackage: Moving output files for package: /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_BuiltData
+[2023.07.18-21.38.59:699][480]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/AlchemistsHouse_1_Auto1_BuiltDat61C1355942DF8468DDFCC594153612C8.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_BuiltData.uasset'
+[2023.07.18-21.38.59:701][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 2.95 sec)
+[2023.07.18-21.38.59:701][480]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_BuiltData
+[2023.07.18-21.38.59:701][480]LogFileHelpers: Saving map 'AlchemistsHouse_1_Auto1' took 0.244
+[2023.07.18-21.38.59:748][480]LogSavePackage: Moving output files for package: /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_BuiltData
+[2023.07.18-21.38.59:748][480]LogSavePackage: Moving '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Saved/AlchemistsHouse_1_Auto1_BuiltDatA0ABE8DA4782BBA3A4F29080127513D0.tmp' to '../../../../../../Users/Andres/Documents/GitHub/ItemCreator/Content/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_BuiltData.uasset'
+[2023.07.18-21.38.59:764][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 368 ms (total: 3.32 sec)
+[2023.07.18-21.38.59:772][480]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.18-21.38.59:772][480]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1_BuiltData.AlchemistsHouse_1_Auto1_BuiltData
+[2023.07.18-21.38.59:772][480]LogContentValidation: Display: Validating /Script/Engine.World /Game/AlchemistsHouse/Maps/AlchemistsHouse_1_Auto1.AlchemistsHouse_1_Auto1
+[2023.07.18-21.39.13:506][851]LogShaderCompilers: Display: ================================================
+[2023.07.18-21.39.13:506][851]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.18-21.39.13:506][851]LogShaderCompilers: Display: Total job queries 2491, among them cache hits 200 (8.03%)
+[2023.07.18-21.39.13:506][851]LogShaderCompilers: Display: Tracking 2291 distinct input hashes that result in 411 distinct outputs (17.94%)
+[2023.07.18-21.39.13:506][851]LogShaderCompilers: Display: RAM used: 6.24 MB (0.01 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.19%
+[2023.07.18-21.39.13:506][851]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.18-21.39.13:506][851]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.18-21.39.13:506][851]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.18-21.39.13:506][851]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.18-21.39.13:506][851]LogShaderCompilers: Display: ================================================

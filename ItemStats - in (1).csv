@@ -1,0 +1,17 @@
+---,Name,Weight,Cost,Description,Requirements,Rarity,ItemType,IsQuestITem,ActionType,Size,Amount
+Rapier,Rapier,2,5,"""This light sword can be thrust for slashing damage with one hand.""",none,Common,Weapon,FALSE,Action,48,1
+Greatsword,Greatsword,7,25,"""This heavy sword can be swung for great slashing damage with two hands.""",none,Common,Weapon,FALSE,Action,84,1
+Greataxe,Greataxe,7,50,"""This heavy axe can be swung for great slashing damage with two hands.""",none,Common,Weapon,FALSE,Action,72,1
+Maul,Maul,10,50,"""This heavy mace can be swung for great bludgeoning damage with two hands.""",none,Common,Weapon,FALSE,Action,66,1
+Shield,Shield,6,20,"""This defensive shield can be equipped in one hand to increase armor value.""",none,Common,Armor,FALSE,None,36,1
+Chainmail,Chainmail,23,75,"""This defensive heavy armor can be equipped to increase armor value, at the cost of mobility.""",none,Common,Armor,FALSE,None,72,1
+Platemail,Platemail,60,1500,"""This defensive heavy armor can be equipped to greatly increase armor value, at the cost of mobility.""",none,Common,Armor,FALSE,None,72,1
+Leather,Leather,10,10,"""This defensive light armor can be equipped to provide some protection.""",none,Common,Armor,FALSE,None,72,1
+Studdedleather,Studdedleather,15,50,"""This defensive light armor can be equipped to provide some protection.""",none,Common,Armor,FALSE,None,72,1
+Claypot,Claypot,2,1,"""A medium sized clay pot.""",none,Common,Wonderous,FALSE,None,12,1
+Goggles,Goggles,1,1,"""A eye protection attached to a strap and buckle.""",none,Common,Wonderous,FALSE,None,3,1
+Helmet,Helmet,6,15,"""A layer of material surrounding the cranium typically worn for protection.""",none,Common,Wonderous,FALSE,None,6,1
+Wand,Wand,1,10,"""A focus for spells often made of wood.""",none,Common,Wonderous,FALSE,Action,12,1
+Longbow,Longbow,9,25,"""A ranged weapon that fires arrow projectiles as ammunition from a long distance.""",none,Common,Weapon,FALSE,Action,72,1
+Scroll,Scroll,1,0.5,"""A scroll of parchment used for",none,Common,Wonderous,FALSE,Action,18,1
+Lute,Lute,3,10,"""A musical instrument with 5 strings that can carry a tune.""",none,Common,Wonderous,FALSE,Action,42,1

@@ -1,0 +1,17 @@
+---,Name,ItemScore,IsEquippable,Tags,Version
+Rapier,Rapier,0,TRUE,"(""piercing"",""sword"",""1h"",""melee"",""finesse"",""martial"",""weapon"")",1
+Greatsword,Greatsword,0,TRUE,"(""slashing"",""sword"",""2h"",""melee"",""heavy"",""two handed"",""martial"",""weapon"")",1
+Greataxe,Greataxe,0,TRUE,"(""slashing"",""axe"",""2h"",""melee"",""heavy"",""two handed"",""martial"",""weapon"")",1
+Maul,Maul,0,TRUE,"(""bludgeoning"",""mace"",""2h"",""melee"",""heavy"",""two handed"",""martial"",""weapon"")",1
+Shield,Shield,0,TRUE,"(""armor"",""shield"",""1h"",""offhand"",""ac"")",1
+Chainmail,Chainmail,0,TRUE,"(""armor"",""ac"",""heavy"",""heavy armor"",""equipment"",""metal"",""iron"")",1
+Platemail,Platemail,0,TRUE,"(""armor"",""ac"",""heavy"",""heavy armor"",""equipment"",""metal"",""iron"")",1
+Leather,Leather,0,TRUE,"(""armor"",""ac"",""light"",""light armor"",""equipment"",""leather"")",1
+Studdedleather,Studdedleather,0,TRUE,"(""armor"",""ac"",""light"",""light armor"",""equipment"",""leather"")",1
+Claypot,Claypot,0,FALSE,"(""wonderous"",""simple"",""misc"",""miscellaneous"",""mundane"")",1
+Goggles,Goggles,0,FALSE,"(""wonderous"",""simple"",""misc"",""miscellaneous"",""mundane"",""armor"")",1
+Helmet,Helmet,0,FALSE,"(""wonderous"",""simple"",""misc"",""miscellaneous"",""mundane"",""armor"")",1
+Wand,Wand,0,TRUE,"(""foci"",""focus"",""caster"",""spell"",""spell focus"",""wand"",""wizard"",""sorceror"",""warlock"")",1
+Longbow,Longbow,0,TRUE,"(""piercing"",""bow"",""2h"",""range"",""heavy"",""two handed"",""weapon"",""ammunition"",""martial"")",1
+Scroll,Scroll,0,FALSE,"(""wonderous"",""simple"",""misc"",""miscellaneous"",""mundane"",""scroll"",""parchment"",""paper"",""ink"")",1
+Lute,Lute,0,FALSE,"(""wonderous"",""simple"",""misc"",""miscellaneous"",""mundane"",""instrument"",""lute"")",1

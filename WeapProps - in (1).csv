@@ -1,0 +1,7 @@
+Name,WeaponType,DamageType,BonusToHit,DamageDiceCount,DiceType,WeaponProperties,IsSpellFocus,Range,ActionType,SpellClasses
+Rapier,Martial Melee,Piercing,0,1,Eight Sided,(Finesse),FALSE,5,Action,
+Greatsword,Martial Melee,Slashing,0,2,Six Sided,,FALSE,5,Action,
+Greataxe,Martial Melee,Slashing,0,1,Twelve Sided,,FALSE,5,Action,
+Maul,Martial Melee,Bludgeoning,0,2,Six Sided,,FALSE,5,Action,
+Wand,None,None,0,0,None,,TRUE,0,None,"(""Wizard"",""Warlock"",""Sorceror"")"
+Longbow,Martial Ranged,Piercing,0,1,Eight Sided,,FALSE,150,Action,
